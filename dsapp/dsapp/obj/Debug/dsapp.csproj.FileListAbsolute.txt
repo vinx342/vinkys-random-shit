@@ -1,0 +1,12 @@
+C:\Users\vinx\source\repos\dsapp\dsapp\bin\Debug\dsapp.exe.config
+C:\Users\vinx\source\repos\dsapp\dsapp\bin\Debug\dsapp.exe
+C:\Users\vinx\source\repos\dsapp\dsapp\bin\Debug\dsapp.pdb
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.csproj.AssemblyReference.cache
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.Form1.resources
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.Properties.Resources.resources
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.csproj.GenerateResource.cache
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.csproj.CoreCompileInputs.cache
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.exe
+C:\Users\vinx\source\repos\dsapp\dsapp\obj\Debug\dsapp.pdb
+C:\Users\vinx\source\repos\dsapp\dsapp\bin\Debug\MyDB1.mdf
+C:\Users\vinx\source\repos\dsapp\dsapp\bin\Debug\MyDB1_log.ldf
