@@ -43,11 +43,11 @@ INSERT INTO Wrapper (cWrapperID, vDescription, vWrapperRate, iPhoto, vWrapper_Im
   ('004', 'Bubbles', 2, NULL, NULL);
 
 INSERT INTO OrderDetail (cOrderNo, cToyId, cQty, cWrapperID, vMessage, dToyCost) VALUES 
-  ('000001', '000008', 1, '002', 'Surprise', 14.99),
-  ('000002', '000016', 2, '001', 'I Love you', 86.50),
-  ('000003', '000017', 3, NULL, NULL, 71.97),
-  ('000004', '000030', 1, '003', 'Happy Birthday', 35.99),
-  ('000005', '000001', 4, '004', 'Congratulations', 35.96);
+  ('000001', '000008', 1, 'Y', '002', 'Surprise', 14.99),
+  ('000002', '000016', 2, 'Y', '001', 'I Love you', 86.50),
+  ('000003', '000017', 3, 'N', NULL, NULL, 71.97),
+  ('000004', '000030', 1, 'Y', '003', 'Happy Birthday', 35.99),
+  ('000005', '000001', 4, 'Y', '004', 'Congratulations', 35.96);
 
 INSERT INTO Orders (cOrderNo, dOrderDate, cCartId, cShopperId, cShippingModeId, dShippingCharges, dGiftWrapCharges, cOrderProcessed, dTotalCost, dExpectedDeliveryDate)VALUES 
   ('000001', '2024-05-20', '000002', '000002', '01', 6.00, 1.25, 'Y', 62.22, '2024-05-24'),
