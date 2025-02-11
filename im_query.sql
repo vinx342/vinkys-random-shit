@@ -42,7 +42,7 @@ INSERT INTO Wrapper (cWrapperID, vDescription, vWrapperRate, iPhoto, vWrapper_Im
   ('003', 'stars', 1.50, NULL, NULL),
   ('004', 'Bubbles', 2, NULL, NULL);
 
-INSERT INTO OrderDetail (cOrderNo, cToyId, cQty, cWrapperID, vMessage, dToyCost) VALUES 
+INSERT INTO OrderDetail (cOrderNo, cToyId, cQty, cGiftWrap, cWrapperID, vMessage, dToyCost) VALUES 
   ('000001', '000008', 1, 'Y', '002', 'Surprise', 14.99),
   ('000002', '000016', 2, 'Y', '001', 'I Love you', 86.50),
   ('000003', '000017', 3, 'N', NULL, NULL, 71.97),
